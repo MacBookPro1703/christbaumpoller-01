@@ -6,7 +6,7 @@ Gold · Silber · Rot – glänzend oder matt – mit oder ohne Schnee – S, M,
 
 Eine Idee von **Ebbing Project**.
 
-- Seite: https://macbookpro1703.github.io/christbaumpoller-01/
+- Seite: https://macbookpro1703.github.io/christbaumpoller-02/
 - Produkt- und Vertriebskonzept: [KONZEPT.md](KONZEPT.md)
 - Spots: `clips/` (Web-Fassung) · Quellskripte zum Neu-Rendern: `quelle/`
 
